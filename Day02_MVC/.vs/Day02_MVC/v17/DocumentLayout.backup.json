@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\department\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\department\\showall.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\department\\warning.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\department\\warning.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\department\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|d:\\tracks\\depi\\eng abdelrahman\\mvc\\solutions\\day04_mvc\\day02_mvc\\day02_mvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7775D37D-8B40-4010-B24B-89B2E5E72650}|Day02_MVC\\Day02_MVC.csproj|solutionrelative:day02_mvc\\views\\student\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:36:56.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Department\\Edit.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\Edit.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Department\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:35:57.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Warning.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\Warning.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Department\\Warning.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\Warning.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Department\\Warning.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:27:00.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAll.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\ShowAll.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Department\\ShowAll.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\ShowAll.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Department\\ShowAll.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwC8AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:23:48.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Day02_MVC\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Day02_MVC\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:21:16.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "Day02_MVC\\Controllers\\DepartmentController.cs",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "Day02_MVC\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAcwIAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T20:14:26.6Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:09:11.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Department\\Delete.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Department\\Delete.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Department\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T20:08:59.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Student\\Add.cshtml",
+              "RelativeDocumentMoniker": "Day02_MVC\\Views\\Student\\Add.cshtml",
+              "ToolTip": "D:\\Tracks\\DEPI\\Eng Abdelrahman\\MVC\\Solutions\\Day04_MVC\\Day02_MVC\\Day02_MVC\\Views\\Student\\Add.cshtml",
+              "RelativeToolTip": "Day02_MVC\\Views\\Student\\Add.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-03T15:15:36.836Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

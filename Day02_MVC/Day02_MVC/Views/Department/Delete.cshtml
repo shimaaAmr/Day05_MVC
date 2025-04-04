@@ -1,0 +1,16 @@
+﻿@model Department
+@{
+	Layout = "_Layout";
+}
+
+
+<h3>Name: @Model.Name</h3>
+<h3>Manager Name: @Model.ManagerName</h3>
+<div asp-validation-summary="All" class="text-danger"></div>
+<form method="post" asp-action="DeleteConfirmed">
+	<input type="hidden" name="id" value="@Model.Id" />
+	<p>Are you sure you want to delete @Model.Name?</p>
+	<button type="submit" class="btn btn-danger mt-3">Yes, Delete</button>
+	<a href="/Department/ShowAll">Cancel</a>
+
+</form>

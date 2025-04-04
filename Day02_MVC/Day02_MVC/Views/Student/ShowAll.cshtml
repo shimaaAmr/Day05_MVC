@@ -1,0 +1,78 @@
+﻿@model List<Student>
+<h1>All Students</h1>
+@{
+	Layout = "_StudentLayout";
+}
+
+<form method="get">
+	<input type="text" name="search" value="@ViewBag.Search" placeholder="Search by name" />
+
+	<select name="departmentId">
+		<option value="">All Departments</option>
+		@foreach (var dept in ViewBag.Departments as SelectList)
+		{
+			<option value="@dept.Value" selected="@(ViewBag.DepartmentId?
+            .ToString() == dept.Value ? "selected" : "")">@dept.Text</option>
+		}
+	</select>
+
+	<button type="submit">Search</button>
+</form>
+
+<a href="/Student/Add" class="btn btn-success mt-3 mb-3">New</a>
+<table class="table table-hover table-bordered">
+	<tr>
+		<th>ID</th>
+		<th>Name</th>
+		<th>Age</th>
+		<th>Department</th>
+	</tr>
+	@foreach (var student in Model)
+	{
+		<tr>
+			<td>@student.Id</td>
+			<td>@student.Name</td>
+			<td>@student.Age</td>
+			<td>@student.Department.Name</td>
+			<td>
+				<a asp-controller="Student"
+				   asp-action="Edit"
+				   asp-route-id="@student.Id"
+				   style:"text-decuration-none"
+				   class="btn btn-primary"
+				   title="Edit">
+					<i class="bi bi-list-ul"></i>
+				</a>
+				<a asp-controller="Student"
+				   asp-action="Details"
+				   asp-route-id="@student.Id"
+				   style:"text-decuration-none"
+				   class=" btn btn-success"
+				   title="Details">
+					<i class="bi bi-pencil-square"></i>
+				</a>
+				<a asp-controller="Student"
+				   asp-action="Delete"
+				   asp-route-id="@student.Id"
+				   style:"text-decuration-none"
+				   class="btn btn-danger"
+				   title="Delete">
+					<i class="bi bi-trash"></i>
+				</a>
+			</td>
+		</tr>
+	}
+</table>
+<div>
+	@if (ViewBag.Page > 1)
+	{
+		<a href="@Url.Action("Index", new { search = ViewBag.Search, departmentId = ViewBag.DepartmentId, page = ViewBag.Page - 1 })">Previous</a>
+	}
+
+	<span>Page @ViewBag.Page of @ViewBag.TotalPages</span>
+
+	@if (ViewBag.Page < ViewBag.TotalPages)
+	{
+		<a href="@Url.Action("Index", new { search = ViewBag.Search, departmentId = ViewBag.DepartmentId, page = ViewBag.Page + 1 })">Next</a>
+	}
+</div>

@@ -1,0 +1,27 @@
+﻿@model Student
+<h1>Add</h1>
+
+<div asp-validation-summary="ModelOnly" class="text-denger"> </div>
+
+<form method="post" asp-controller="Student" asp-action="SaveAdd" class="col-3">
+	<div>
+		<label asp-for="Name"> </label>
+		<input asp-for="Name" class="form form-control" />
+		<span asp-validation-for="Name" class="text-danger"></span>
+	</div>
+	<div>
+		<label asp-for="Age"></label>
+		<input asp-for="Age" class="form form-control" />
+		<span asp-validation-for="Age" class="text-danger"> </span>
+	</div>
+	<div>
+
+		<label asp-for="DepartmentId"></label>
+		<select asp-for="DepartmentId" asp-items="ViewBag.DeptList" class="form form-control">
+			<option value="0">-- Select department --</option>
+		</select>
+		<span asp-validation-for="DepartmentId" class="text-danger"></span>
+	</div>
+	<input type="submit" value="Save" class="btn btn-success mt-3" />
+</form>
+<a href="/Student/ShowAll" class="btn btn-outline-success mt-3">Back to list</a>

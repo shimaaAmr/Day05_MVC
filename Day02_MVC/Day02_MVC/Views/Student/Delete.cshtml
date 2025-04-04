@@ -1,0 +1,15 @@
+﻿@{
+	Layout = "_Layout";
+}
+@model Student
+
+<h3>Name: @Model.Name</h3>
+<h3>Age: @Model.Age</h3>
+<h3>Department: @Model.Department.Name</h3>
+<form method="post" asp-action="DeleteConfirmed">
+	<input type="hidden" name="id" value="@Model.Id" />
+	<p>Are you sure you want to delete @Model.Name?</p>
+	<button type="submit" class="btn btn-danger mt-3">Yes, Delete</button>
+	<a href="/Student/ShowAll">Cancel</a>
+
+</form>

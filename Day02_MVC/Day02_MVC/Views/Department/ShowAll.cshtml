@@ -1,0 +1,57 @@
+﻿@model IEnumerable<Department>
+@{
+	ViewData["Title"] = "ShowAll";
+}
+
+<h1>All Departments</h1>
+<br />
+<a href="/Department/Add" class="btn btn-primary mb-3">Create New</a>
+<br />
+@if (TempData["Error"] != null)
+{
+	<div class="alert alert-danger">
+		@TempData["Error"]
+	</div>
+}
+<table class="table table-hover table-bordered">
+	<tr>
+		<th>Id</th>
+		<th>Name</th>
+		<th>Manager Name</th>
+	</tr>
+	@foreach (var department in @Model)
+	{
+		<tr>
+			<td>@department.Id</td>
+			<td>@department.Name</td>
+			<td>@department.ManagerName</td>
+			<td>
+				<a asp-controller="Department"
+				   asp-action="Edit"
+				   asp-route-id="@department.Id"
+				   style:"text-decuration-none"
+				   class="btn btn-primary"
+				   title="Edit">
+					<i class="bi bi-list-ul"></i>
+				</a>
+				<a asp-controller="Department"
+				   asp-action="Details"
+				   asp-route-id="@department.Id"
+				   style:"text-decuration-none"
+				   class=" btn btn-success"
+				   title="Details">
+					<i class="bi bi-pencil-square"></i>
+				</a>
+				<a asp-controller="Department"
+				   asp-action="Delete"
+				   asp-route-id="@department.Id"
+				   style:"text-decuration-none"
+				   class="btn btn-danger"
+				   title="Delete">
+					<i class="bi bi-trash"></i>
+				</a>
+			</td>
+		</tr>
+	}
+</table>
+

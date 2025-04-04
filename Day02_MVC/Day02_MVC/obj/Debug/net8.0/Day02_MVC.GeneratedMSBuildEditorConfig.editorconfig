@@ -1,0 +1,117 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Day02_MVC
+build_property.RootNamespace = Day02_MVC
+build_property.ProjectDir = D:\Tracks\DEPI\Eng Abdelrahman\MVC\Solutions\Day04_MVC\Day02_MVC\Day02_MVC\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Tracks\DEPI\Eng Abdelrahman\MVC\Solutions\Day04_MVC\Day02_MVC\Day02_MVC
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/DetailsVM.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzVk0uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/ShowAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxTaG93QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Department/Warning.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxXYXJuaW5nLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Shared/_OurLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9PdXJMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Shared/_StudentLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TdHVkZW50TGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Student/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Student/ShowAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTaG93QWxsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Tracks/DEPI/Eng Abdelrahman/MVC/Solutions/Day04_MVC/Day02_MVC/Day02_MVC/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ndd24fv55l

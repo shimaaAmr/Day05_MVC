@@ -1,0 +1,11 @@
+﻿
+@model DeptWithStudViewModel
+<h2>Department: @Model.DeptName</h2>
+<p>Department State: @Model.DeptState</p>
+<label for="students">Students above 25 years:</label>
+<select id="students" name="students" class="form-control">
+	@foreach (var student in Model.Students)
+	{
+		<option value="@student.Value">@student.Text</option>
+	}
+</select>
